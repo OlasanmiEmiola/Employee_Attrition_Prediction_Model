@@ -11,23 +11,23 @@ The dataset contains: 14,999 rows – each row is a different employee’s self-
 
 * satisfaction_level : The employee’s self-reported satisfaction level [0-1]
 
-last_evaluation: Score of employee's last performance review [0–1]
+* last_evaluation: Score of employee's last performance review [0–1]
 
-number_project: Number of projects employee contributes to
+* number_project: Number of projects employee contributes to
 
-average_monthly_hours: Average number of hours employee worked per month
+* average_monthly_hours: Average number of hours employee worked per month
 
-time_spend_company: How long the employee has been with the company (years)
+* time_spend_company: How long the employee has been with the company (years)
 
-work_accident: Whether or not the employee experienced an accident while at work
+* work_accident: Whether or not the employee experienced an accident while at work
 
-left: Whether or not the employee left the company
+* left: Whether or not the employee left the company
 
-promotion_last_5years: Whether or not the employee was promoted in the last 5 years
+* promotion_last_5years: Whether or not the employee was promoted in the last 5 years
 
-department: The employee's department
+* department: The employee's department
 
-Salary: The employee's salary (low, medium, or high)
+* Salary: The employee's salary (low, medium, or high)
 
 
 Click here to the [Jupyter Notebook](https://github.com/OlasanmiEmiola/Employee_Churn_PredIction_Model/blob/main/_Salifort%20Motors%20Employee%20Churn%20%20Prediction%20Model.ipynb)
