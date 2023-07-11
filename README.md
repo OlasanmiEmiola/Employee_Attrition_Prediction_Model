@@ -9,7 +9,7 @@ This project uses a dataset called HR_capstone_dataset.csv. It represents 10 col
 
 The dataset contains: 14,999 rows – each row is a different employee’s self-reported information 10 columns
 
-satisfaction_level : The employee’s self-reported satisfaction level [0-1]
+* satisfaction_level : The employee’s self-reported satisfaction level [0-1]
 
 last_evaluation: Score of employee's last performance review [0–1]
 
